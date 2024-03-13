@@ -328,48 +328,129 @@ TimingPoints:
 - StartTime: 34492
   Bpm: 167
   Signature: 1
-- StartTime: 34851
+- StartTime: 34850.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 34851.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
 - StartTime: 35210
   Bpm: 167
   Signature: 1
+- StartTime: 35210.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 35211.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 35569
   Bpm: 167
   Signature: 1
+- StartTime: 35569.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 35570.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 35929
   Bpm: 167
   Signature: 1
+- StartTime: 35929.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 35930.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 36288
   Bpm: 167
   Signature: 1
+- StartTime: 36288.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 36289.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 36647
   Bpm: 167
   Signature: 1
+- StartTime: 36647.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 36648.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 37006
   Bpm: 167
   Signature: 1
+- StartTime: 37006.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 37007.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 37366
   Bpm: 167
   Signature: 1
+- StartTime: 37366.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 37367.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 37725
   Bpm: 167
   Signature: 1
+- StartTime: 37725.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 37726.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 38084
   Bpm: 167
   Signature: 1
+- StartTime: 38084.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 38085.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 38444
   Bpm: 167
   Signature: 1
+- StartTime: 38444.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 38445.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 38803
   Bpm: 167
   Signature: 1
+- StartTime: 38803.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 38804.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 39162
   Bpm: 167
   Signature: 1
+- StartTime: 39162.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 39163.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 39521
   Bpm: 167
   Signature: 1
+- StartTime: 39521.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 39522.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 39881
   Bpm: 167
   Signature: 1
@@ -382,33 +463,93 @@ TimingPoints:
 - StartTime: 40959
   Bpm: 167
   Signature: 1
+- StartTime: 40959.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 40960.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 41318
   Bpm: 167
   Signature: 1
+- StartTime: 41318.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 41319.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 41677
   Bpm: 167
   Signature: 1
+- StartTime: 41677.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 41678.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 42036
   Bpm: 167
   Signature: 1
+- StartTime: 42036.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 42037.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 42396
   Bpm: 167
   Signature: 1
+- StartTime: 42396.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 42397.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 42755
   Bpm: 167
   Signature: 1
+- StartTime: 42755.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 42756.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 43114
   Bpm: 167
   Signature: 1
+- StartTime: 43114.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 43115.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 43474
   Bpm: 167
   Signature: 1
+- StartTime: 43474.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 43475.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 43833
   Bpm: 167
   Signature: 1
+- StartTime: 43833.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 43834.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 44192
   Bpm: 167
   Signature: 1
+- StartTime: 44192.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 44193.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 44551
   Bpm: 167
   Signature: 1
@@ -424,84 +565,252 @@ TimingPoints:
 - StartTime: 45989
   Bpm: 167
   Signature: 1
+- StartTime: 45989.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 45990.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 46348
   Bpm: 167
   Signature: 1
+- StartTime: 46348.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 46349.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 46707
   Bpm: 167
   Signature: 1
+- StartTime: 46707.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 46708.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 47066
   Bpm: 167
   Signature: 1
+- StartTime: 47066.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 47067.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 47426
   Bpm: 167
   Signature: 1
+- StartTime: 47426.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 47427.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 47785
   Bpm: 167
   Signature: 1
+- StartTime: 47785.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 47786.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 48144
   Bpm: 167
   Signature: 1
+- StartTime: 48144.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 48145.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 48503
   Bpm: 167
   Signature: 1
+- StartTime: 48503.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 48504.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 48863
   Bpm: 167
   Signature: 1
+- StartTime: 48863.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 48864.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 49222
   Bpm: 167
   Signature: 1
+- StartTime: 49222.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 49223.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 49581
   Bpm: 167
   Signature: 1
+- StartTime: 49581.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 49582.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 49941
   Bpm: 167
   Signature: 1
+- StartTime: 49941.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 49942.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 50300
   Bpm: 167
   Signature: 1
+- StartTime: 50300.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 50301.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 50659
   Bpm: 167
   Signature: 1
+- StartTime: 50659.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 50660.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 51018
   Bpm: 167
   Signature: 1
+- StartTime: 51018.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 51019.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 51378
   Bpm: 167
   Signature: 1
+- StartTime: 51378.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 51379.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 51557.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 51558.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 51737
   Bpm: 167
   Signature: 1
+- StartTime: 51737.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 51738.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 52096
   Bpm: 167
   Signature: 1
+- StartTime: 52096.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 52097.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 52456
   Bpm: 167
   Signature: 1
+- StartTime: 52456.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 52457.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 52815
   Bpm: 167
   Signature: 1
+- StartTime: 52815.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 52816.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 53174
   Bpm: 167
   Signature: 1
+- StartTime: 53174.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 53175.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 53533
   Bpm: 167
   Signature: 1
+- StartTime: 53533.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 53534.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 53893
   Bpm: 167
   Signature: 1
+- StartTime: 53893.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 53894.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 54252
   Bpm: 167
   Signature: 1
+- StartTime: 54252.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 54253.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 54611
   Bpm: 167
   Signature: 1
+- StartTime: 54611.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 54612.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 54971
   Bpm: 167
   Signature: 1
+- StartTime: 54971.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 54972.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 55330
   Bpm: 167
   Signature: 1
+- StartTime: 55330.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 55331.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 55689
   Bpm: 167
   Signature: 1
@@ -697,210 +1006,414 @@ TimingPoints:
 - StartTime: 78683
   Bpm: 167
   Signature: 1
-- StartTime: 79042
-  Bpm: 167
-  Signature: 1
-- StartTime: 79402
-  Bpm: 167
-  Signature: 1
-- StartTime: 79761
-  Bpm: 167
-  Signature: 1
-- StartTime: 80120
-  Bpm: 167
-  Signature: 1
-- StartTime: 80480
-  Bpm: 167
-  Signature: 1
-- StartTime: 80839
-  Bpm: 167
-  Signature: 1
-- StartTime: 81198
-  Bpm: 167
-  Signature: 1
-- StartTime: 81557
-  Bpm: 167
-  Signature: 1
-- StartTime: 81917
-  Bpm: 167
-  Signature: 1
-- StartTime: 82276
-  Bpm: 167
-  Signature: 1
-- StartTime: 82635
-  Bpm: 167
-  Signature: 1
-- StartTime: 82995
-  Bpm: 167
-  Signature: 1
-- StartTime: 83354
-  Bpm: 167
-  Signature: 1
-- StartTime: 83713
-  Bpm: 167
-  Signature: 1
-- StartTime: 84072
-  Bpm: 167
-  Signature: 1
-- StartTime: 84432
-  Bpm: 167
-  Signature: 1
-- StartTime: 84791
-  Bpm: 167
-  Signature: 1
-- StartTime: 85150
-  Bpm: 167
-  Signature: 1
-- StartTime: 85509
-  Bpm: 167
-  Signature: 1
-- StartTime: 85869
-  Bpm: 167
-  Signature: 1
-- StartTime: 86228
-  Bpm: 167
-  Signature: 1
-- StartTime: 86587
-  Bpm: 167
-  Signature: 1
-- StartTime: 86947
-  Bpm: 167
-  Signature: 1
-- StartTime: 87306
-  Bpm: 167
-  Signature: 1
-- StartTime: 87665
-  Bpm: 167
-  Signature: 1
-- StartTime: 88024
-  Bpm: 167
-  Signature: 1
-- StartTime: 88384
-  Bpm: 167
-  Signature: 1
-- StartTime: 88743
-  Bpm: 167
-  Signature: 1
-- StartTime: 89102
-  Bpm: 167
-  Signature: 1
-- StartTime: 89462
-  Bpm: 167
-  Signature: 1
-- StartTime: 89821
-  Bpm: 167
-  Signature: 1
-- StartTime: 90180
-  Bpm: 167
-  Signature: 1
-- StartTime: 90539
-  Bpm: 167
-  Signature: 1
-- StartTime: 90899
-  Bpm: 167
-  Signature: 1
-- StartTime: 91258
-  Bpm: 167
-  Signature: 1
-- StartTime: 91617
-  Bpm: 167
-  Signature: 1
-- StartTime: 91977
-  Bpm: 167
-  Signature: 1
-- StartTime: 92336
-  Bpm: 167
-  Signature: 1
-- StartTime: 92695
-  Bpm: 167
-  Signature: 1
-- StartTime: 93054
-  Bpm: 167
-  Signature: 1
-- StartTime: 93414
-  Bpm: 167
-  Signature: 1
-- StartTime: 93773
-  Bpm: 167
-  Signature: 1
-- StartTime: 94132
-  Bpm: 167
-  Signature: 1
-- StartTime: 94492
-  Bpm: 167
-  Signature: 1
-- StartTime: 94851
-  Bpm: 167
-  Signature: 1
-- StartTime: 95210
-  Bpm: 167
-  Signature: 1
-- StartTime: 95569
-  Bpm: 167
-  Signature: 1
-- StartTime: 95929
-  Bpm: 167
-  Signature: 1
-- StartTime: 96288
-  Bpm: 167
-  Signature: 1
-- StartTime: 96647
-  Bpm: 167
-  Signature: 1
-- StartTime: 97006
-  Bpm: 167
-  Signature: 1
-- StartTime: 97366
-  Bpm: 167
-  Signature: 1
-- StartTime: 97725
-  Bpm: 167
-  Signature: 1
-- StartTime: 98084
-  Bpm: 167
-  Signature: 1
-- StartTime: 98444
-  Bpm: 167
-  Signature: 1
-- StartTime: 98803
-  Bpm: 167
-  Signature: 1
-- StartTime: 99162
-  Bpm: 167
-  Signature: 1
-- StartTime: 99521
-  Bpm: 167
-  Signature: 1
-- StartTime: 99881
-  Bpm: 167
-  Signature: 1
-- StartTime: 100240
-  Bpm: 167
-  Signature: 1
-- StartTime: 100599
-  Bpm: 167
-  Signature: 1
-- StartTime: 100959
-  Bpm: 167
-  Signature: 1
-- StartTime: 101318
-  Bpm: 167
-  Signature: 1
-- StartTime: 101677
-  Bpm: 167
-  Signature: 1
-- StartTime: 102036
-  Bpm: 167
-  Signature: 1
-- StartTime: 102396
-  Bpm: 167
-  Signature: 1
-- StartTime: 102755
-  Bpm: 167
-  Signature: 1
-- StartTime: 103114
-  Bpm: 167
-  Signature: 1
+- StartTime: 79041.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 79042.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 79401.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 79402.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 79760.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 79761.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 80119.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 80120.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 80479.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 80480.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 80838.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 80839.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 81197.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 81198.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 81556.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 81557.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 81916.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 81917.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 82275.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 82276.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 82634.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 82635.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 82994.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 82995.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 83353.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 83354.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 83712.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 83713.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 84071.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 84072.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 84431.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 84432.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 84790.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 84791.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 85149.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 85150.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 85508.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 85509.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 85868.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 85869.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 86227.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 86228.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 86586.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 86587.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 86946.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 86947.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 87305.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 87306.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 87664.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 87665.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 88023.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 88024.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 88383.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 88384.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 88742.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 88743.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 89101.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 89102.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 89461.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 89462.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 89820.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 89821.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 90179.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 90180.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 90538.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 90539.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 90898.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 90899.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 91257.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 91258.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 91616.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 91617.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 91976.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 91977.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 92335.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 92336.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 92694.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 92695.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 93053.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 93054.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 93413.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 93414.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 93772.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 93773.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 94131.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 94132.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 94491.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 94492.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 94850.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 94851.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 95209.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 95210.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 95568.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 95569.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 95928.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 95929.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 96287.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 96288.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 96646.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 96647.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 97005.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 97006.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 97365.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 97366.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 97724.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 97725.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 98083.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 98084.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 98443.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 98444.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 98802.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 98803.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 99161.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 99162.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 99520.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 99521.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 99880.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 99881.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 100239.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 100240.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 100598.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 100599.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 100958.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 100959.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 101317.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 101318.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 101676.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 101677.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 102035.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 102036.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 102395.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 102396.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 102754.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 102755.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 103113.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 103114.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 103474
   Bpm: 167
   Signature: 1
@@ -1087,9 +1600,36 @@ TimingPoints:
 - StartTime: 125390
   Bpm: 167
   Signature: 1
-- StartTime: 125749
+- StartTime: 125748.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 125749.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
+- StartTime: 125793.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 125794.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 125838.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 125839.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 125928.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 125929.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 126017.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 126018.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 126108
   Bpm: 167
   Signature: 1
@@ -1108,15 +1648,48 @@ TimingPoints:
 - StartTime: 127905
   Bpm: 167
   Signature: 1
+- StartTime: 127905.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 127906.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 128173.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 128174.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 128264
   Bpm: 167
   Signature: 1
-- StartTime: 128623
+- StartTime: 128443.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 128444.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
+- StartTime: 128622.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 128623.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 128892.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 128893.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 128983
   Bpm: 167
   Signature: 1
+- StartTime: 129161.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 129162.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 129342
   Bpm: 167
   Signature: 1
@@ -1129,6 +1702,12 @@ TimingPoints:
 - StartTime: 130420
   Bpm: 167
   Signature: 1
+- StartTime: 130594.875
+  Bpm: 240000
+  Hidden: true
+- StartTime: 130595.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 130779
   Bpm: 167
   Signature: 1
@@ -3778,9 +4357,48 @@ TimingPoints:
 - StartTime: 180360
   Bpm: 167
   Signature: 1
-- StartTime: 180719
+- StartTime: 180718.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180719.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
+- StartTime: 180763.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180764.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 180808.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180809.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 180853.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180854.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 180898.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180899.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 180943.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180944.125
+  Bpm: 167
+  Hidden: true
+- StartTime: 180988.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 180989.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 181078
   Bpm: 167
   Signature: 16
@@ -40082,7 +40700,7 @@ SliderVelocities:
 - StartTime: 129161.984375
   Multiplier: 717682.25
 - StartTime: 129162
-  Multiplier: 68991.7890625
+  Multiplier: 196991.78125
 - StartTime: 129162.015625
 - StartTime: 129169.984375
   Multiplier: -640
@@ -74317,7 +74935,7 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 10
-- StartTime: 127905
+- StartTime: 127906
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
@@ -74388,7 +75006,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 10
 - StartTime: 130955
-  Lane: 1
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
 - StartTime: 131138
@@ -74435,7 +75053,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 10
 - StartTime: 132393
-  Lane: 2
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
 - StartTime: 132575
@@ -74578,7 +75196,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 137066
-  Lane: 2
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
 - StartTime: 137246
