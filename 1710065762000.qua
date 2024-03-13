@@ -80847,6 +80847,16 @@ HitObjects:
   EndTime: 231378
   KeySounds: []
   EditorLayer: 7
+- StartTime: 229985
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 230042
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 4
 - StartTime: 231468
   Lane: 2
   HitSound: Whistle
@@ -80963,15 +80973,15 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 244312
-  Lane: 3
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 244312
   Lane: 4
   EndTime: 245749
   KeySounds: []
   EditorLayer: 7
+- StartTime: 244341
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 4
 - StartTime: 245771
   Lane: 4
   HitSound: Whistle
