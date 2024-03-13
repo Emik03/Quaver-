@@ -9,7 +9,7 @@ Artist: 黒皇帝
 Source: NOISZ episode G
 Tags: kurokotei, blank, null, empty, undefined, none, nothing, sv, qot4, finals
 Creator: Emik
-DifficultyName: '\u200B'
+DifficultyName: OVERLOAD (12.5)
 Description: Created at 1710065762000
 BPMDoesNotAffectScrollVelocity: true
 InitialScrollVelocity: 1
@@ -28790,11 +28790,15 @@ SliderVelocities:
 - StartTime: 79042
   Multiplier: 46080
 - StartTime: 79042.015625
+- StartTime: 79401.984375
+  Multiplier: 3200
 - StartTime: 79402
-  Multiplier: 45952
+  Multiplier: 42752
 - StartTime: 79402.015625
+- StartTime: 79760.984375
+  Multiplier: 1600
 - StartTime: 79761
-  Multiplier: 45952
+  Multiplier: 44352
 - StartTime: 79761.015625
 - StartTime: 80120
   Multiplier: 0.060418389737606049
