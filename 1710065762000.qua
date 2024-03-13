@@ -5296,48 +5296,90 @@ TimingPoints:
 - StartTime: 212695
   Bpm: 167
   Signature: 1
-- StartTime: 213054
+- StartTime: 213053.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 213054.125
   Bpm: 167
-  Signature: 1
-- StartTime: 213414
+  Hidden: true
+- StartTime: 213413.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 213414.125
   Bpm: 167
-  Signature: 1
-- StartTime: 213773
+  Hidden: true
+- StartTime: 213772.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 213773.125
   Bpm: 167
-  Signature: 1
-- StartTime: 214132
+  Hidden: true
+- StartTime: 214131.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 214132.125
   Bpm: 167
-  Signature: 1
-- StartTime: 214492
+  Hidden: true
+- StartTime: 214491.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 214492.125
   Bpm: 167
-  Signature: 1
-- StartTime: 214851
+  Hidden: true
+- StartTime: 214850.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 214851.125
   Bpm: 167
-  Signature: 1
-- StartTime: 215210
+  Hidden: true
+- StartTime: 215209.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 215210.125
   Bpm: 167
-  Signature: 1
-- StartTime: 215569
+  Hidden: true
+- StartTime: 215568.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 215569.125
   Bpm: 167
-  Signature: 1
-- StartTime: 215929
+  Hidden: true
+- StartTime: 215928.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 215929.125
   Bpm: 167
-  Signature: 1
-- StartTime: 216288
+  Hidden: true
+- StartTime: 216287.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 216288.125
   Bpm: 167
-  Signature: 1
-- StartTime: 216647
+  Hidden: true
+- StartTime: 216646.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 216647.125
   Bpm: 167
-  Signature: 1
-- StartTime: 217006
+  Hidden: true
+- StartTime: 217005.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 217006.125
   Bpm: 167
-  Signature: 1
-- StartTime: 217366
+  Hidden: true
+- StartTime: 217365.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 217366.125
   Bpm: 167
-  Signature: 1
-- StartTime: 217725
+  Hidden: true
+- StartTime: 217724.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 217725.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
 - StartTime: 218084
   Bpm: 167
   Signature: 1
@@ -5389,42 +5431,108 @@ TimingPoints:
 - StartTime: 223833
   Bpm: 167
   Signature: 1
-- StartTime: 224192
+- StartTime: 224191.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 224192.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
 - StartTime: 224551
   Bpm: 167
   Signature: 1
+- StartTime: 224551.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 224552.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 224911
   Bpm: 167
   Signature: 1
+- StartTime: 224911.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 224912.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 225270
   Bpm: 167
   Signature: 1
+- StartTime: 225270.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 225271.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 225629
   Bpm: 167
   Signature: 1
+- StartTime: 225629.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 225630.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 225989
   Bpm: 167
   Signature: 1
+- StartTime: 225989.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 225990.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 226348
   Bpm: 167
   Signature: 1
+- StartTime: 226348.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 226349.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 226707
   Bpm: 167
   Signature: 1
+- StartTime: 226707.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 226708.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 227066
   Bpm: 167
   Signature: 1
+- StartTime: 227066.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 227067.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 227426
   Bpm: 167
   Signature: 1
+- StartTime: 227426.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 227427.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 227785
   Bpm: 167
   Signature: 1
-- StartTime: 228144
+- StartTime: 227785.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 227786.125
   Bpm: 167
-  Signature: 1
+  Hidden: true
+- StartTime: 228143.875
+  Bpm: 96000
+  Hidden: true
+- StartTime: 228144.125
+  Bpm: 167
+  Hidden: true
 - StartTime: 228503
   Bpm: 167
   Signature: 1
@@ -78901,7 +79009,7 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-- StartTime: 213144
+- StartTime: 213143
   Lane: 4
   HitSound: Whistle
   KeySounds: []
