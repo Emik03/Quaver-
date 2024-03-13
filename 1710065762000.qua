@@ -79612,10 +79612,12 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 206138
   Lane: 1
+  HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 1
 - StartTime: 206228
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 1
 - StartTime: 206228
