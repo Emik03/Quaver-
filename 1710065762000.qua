@@ -75516,11 +75516,11 @@ SliderVelocities:
   Multiplier: 1793.166259765625
 - StartTime: 229492.015625
 - StartTime: 229581
-  Multiplier: 6400000000
+  Multiplier: 12800000000
 - StartTime: 229581.015625
   Multiplier: 0.25
 - StartTime: 250060
-  Multiplier: 6.4000001744411034E+17
+  Multiplier: 1.2800000348882207E+18
 - StartTime: 250060.015625
   Multiplier: 0.25
 HitObjects:
