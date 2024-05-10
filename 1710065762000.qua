@@ -85955,9 +85955,6 @@ HitObjects:
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
-- StartTime: 212336
-  Lane: 1
-  KeySounds: []
 - StartTime: 212694
   Lane: 2
   HitSound: Whistle
