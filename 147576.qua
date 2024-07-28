@@ -2,20 +2,21 @@ AudioFile: audio.mp3
 SongPreviewTime: 258108
 BackgroundFile: blank-bg.png
 BannerFile: blank-banner.png
-MapId: -1
-MapSetId: -1
+MapId: 147576
+MapSetId: 34713
 Mode: Keys4
-Title: ''
-Artist: 黒皇帝
+Title: >2
+
+Artist: Kurokotei
 Source: NOISZ episode G
-Tags: kurokotei, blank, null, empty, undefined, none, nothing, sv, qot4, qot24, qot2024, knockout, ko, trance, video game music, artcore, full-on psytrance, schranz, grand finals, gl, good luck, 0 Combo
+Tags: 黒皇帝, blank, null, empty, undefined, none, zero, 0, nada, naught, nothing, sv, qot4, qot24, qot2024, knockout, ko, trance, video game music, artcore, full-on psytrance, schranz, grand finals, gl, good luck, 0 Combo
 Creator: Emik
 DifficultyName: OVERLOAD (12.5)
 Description: Created at 1710065762000
 BPMDoesNotAffectScrollVelocity: true
 InitialScrollVelocity: 1
 EditorLayers:
-- Name: ​
+- Name: ''
   ColorRgb: 255,128,0
 - Name: Snare
   ColorRgb: 255,255,128
