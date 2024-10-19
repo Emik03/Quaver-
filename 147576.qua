@@ -77705,6 +77705,11 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 5
+- StartTime: 59820
+  Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 8
 - StartTime: 59910
   Lane: 1
   KeySounds: []
