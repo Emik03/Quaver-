@@ -49383,9 +49383,9 @@ SliderVelocities:
 - StartTime: 139668
   Multiplier: -2.9835655689239502
 - StartTime: 139670.984375
-  Multiplier: 36157.015625
+  Multiplier: 31357.015625
 - StartTime: 139671
-  Multiplier: 650371
+  Multiplier: 655171
 - StartTime: 139671.015625
   Multiplier: 3
 - StartTime: 139678
@@ -49809,9 +49809,9 @@ SliderVelocities:
 - StartTime: 140382.015625
   Multiplier: 1.9031798839569092
 - StartTime: 140389.984375
-  Multiplier: 63497948
+  Multiplier: 63493148
 - StartTime: 140390
-  Multiplier: -63497940
+  Multiplier: -63493140
 - StartTime: 140390.015625
   Multiplier: 2.1213202476501465
 - StartTime: 140393
@@ -53247,9 +53247,9 @@ SliderVelocities:
 - StartTime: 146427.015625
   Multiplier: -1.1535412073135376
 - StartTime: 146430.5
-  Multiplier: -0.27209392189979553
-- StartTime: 146430.5
   Multiplier: 0.014312053099274635
+- StartTime: 146430.5
+  Multiplier: -0.27209392189979553
 - StartTime: 146435
   Multiplier: 63442620
 - StartTime: 146435.015625
@@ -53425,9 +53425,9 @@ SliderVelocities:
 - StartTime: 146587.671875
   Multiplier: -0.040401577949523926
 - StartTime: 146587.984375
-  Multiplier: -63683240
-- StartTime: 146587.984375
   Multiplier: 12160
+- StartTime: 146587.984375
+  Multiplier: -63683240
 - StartTime: 146588
   Multiplier: 63683240
 - StartTime: 146588.015625
@@ -78384,7 +78384,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 8
 - StartTime: 70868
-  Lane: 1
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 70958
